@@ -4,7 +4,7 @@ This repo is for the purpose of demonstrating how to deploy a scraper using scra
 
 ## How to run it on local
 
-docker compose up --build -d
+`docker compose up --build -d`
 
 # Scrapyd Web
 
